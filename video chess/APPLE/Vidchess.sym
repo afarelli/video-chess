@@ -1,0 +1,15 @@
+--- Symbol List (sorted by symbol)
+CHECA_RESET              f2aa
+FIM_QUADRO               f2a2
+FONTE_DIGITOS            ff40
+GFX_PECAS                ff00
+INICIO_QUADRO            f00f
+KERNEL_VIDEO             f0d9
+PTR_GFX                  00c0
+RESET                    f000
+SETUP_TABULEIRO          f2ad
+TABULEIRO                0080
+TAB_POS_INICIAL          fef2
+TAB_VALOR_NEG            fed5
+TAB_VALOR_POS            fedd
+--- End of Symbol List.

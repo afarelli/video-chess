@@ -1,0 +1,19 @@
+b1c3 -> computador c7-c5  (quadros 624, buscas 1, quadros com diferenca 1247)
+e2e4 -> computador b8-c6  (quadros 1314, buscas 2, quadros com diferenca 2627)
+d2d4 -> computador c5-d4  (quadros 2002, buscas 3, quadros com diferenca 4003)
+g1f3 -> computador g1-f2  (quadros 5577, buscas 3, quadros com diferenca 11153)
+bytes escritos pelo kernel: C0 C2 C4 C6 C8 CA CC CE E8 EB F8 F9 FA FB FC FD FE FF
+quadro 0 over: C0:28/00 C2:20/00 C4:18/00 C6:08/00 C8:10/00 CA:18/00 CE:28/00 E8:66/00 EB:40/00
+quadro 1 vbl: E8:66/00 EB:40/00
+quadro 1 over: C0:28/00 C2:20/00 C4:18/00 C6:08/00 C8:10/00 CA:18/00 CE:28/00 E8:66/00 EB:40/00
+quadro 2 vbl: E8:66/00 EB:40/00
+quadro 2 over: C0:28/00 C2:20/00 C4:18/00 C6:08/00 C8:10/00 CA:18/00 CE:28/00 E8:66/00 EB:40/00
+quadro 3 vbl: E8:66/00 EB:40/00
+quadro 3 over: C0:28/00 C2:20/00 C4:18/00 C6:08/00 C8:10/00 CA:18/00 CE:28/00 E8:66/00 EB:40/00
+quadro 4 vbl: E8:66/00 EB:40/00
+quadro 4 over: C0:28/00 C2:20/00 C4:18/00 C6:08/00 C8:10/00 CA:18/00 CE:28/00 E8:66/00 EB:40/00
+quadro 5 vbl: E8:66/00 EB:40/00
+quadro 5 over: C0:28/00 C2:20/00 C4:18/00 C6:08/00 C8:10/00 CA:18/00 CE:28/00 E8:66/00 EB:40/00
+quadro 6 vbl: E8:66/00 EB:40/00
+quadros com diferenca FORA dos bytes do kernel: 0
+tabuleiro igual no fim: True
