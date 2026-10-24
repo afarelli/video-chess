@@ -1,0 +1,36 @@
+--- Symbol List (sorted by symbol)
+CHECA_RESET              f2aa
+FIM_QUADRO               f2a2
+FONTE_DIGITOS            ff40
+GFX_PECAS                ff00
+INICIO_QUADRO            f00f
+KERNEL_VIDEO             f0d9
+PTR_GFX                  00c0
+RESET                    f000
+SETUP_TABULEIRO          f2ad
+TABULEIRO                0080
+TAB_POS_INICIAL          fef2
+TAB_VALOR_NEG            fed5
+TAB_VALOR_POS            fedd
+CONT_QUADROS             00d3
+CASA_ORIGEM              00d9
+CASA_CURSOR              00da
+PECA_NA_MAO              00db
+CONTEUDO_CASA            00dc
+PISCA_PECA               f065
+LANCE_ORIGEM             00d4
+LANCE_DESTINO            00d5
+PECA_CAPTURADA           00d7
+FAZ_LANCE                fd33
+MOVE_PECA                fd37
+POE_PECA                 fd44
+AVALIA                   fd91
+DESFAZ_LANCE             f905
+EXECUTA_LANCE            f373
+GERA_DESTINO             fb91
+FIM_GERA_DESTINO         fbb5
+TAB_DIRECOES             ff82
+TAB_INICIO_DIR           ffe8
+PECA_TIPO                00d6
+DIRECAO                  00d8
+--- End of Symbol List.

@@ -1,0 +1,3 @@
+{"rom": "Vidchess.bin", "nomes": "",
+ "skip2": [], "decimal": [["FBA0", "FBA5"]], "frame_end": ["F00F"],
+ "drop2": ["F45E"], "php_plp": {"FBBC": "FBF9"}}
